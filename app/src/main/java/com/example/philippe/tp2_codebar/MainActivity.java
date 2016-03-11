@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
 
         Log.v("Une belle ligne inutile", "Useless");
+        Log.v("Une belle ligne inutile", "Useless2");
     }
 }
